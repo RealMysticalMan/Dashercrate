@@ -21,5 +21,5 @@ INSERT INTO levels VALUES (11, "Ispywithmylittleeye", "Easy Demon", "Cheesy");
 INSERT INTO levels VALUES (12, "Invisible Clubstep", "Easy Demon", "Mystical Man");
 INSERT INTO levels VALUES (13, "The Nightmare", "Easy Demon", "Mystical Man");
 INSERT INTO levels VALUES (14, "The Lightning Road", "Easy Demon", "Mystical Man");
-CREATE TABLE contact(name TEXT, email TEXT);
-INSERT INTO contact VALUES ("Mystical Man", "Alkanuit@gmail.com");
+CREATE TABLE contact(id INTEGER PRIMARY KEY, name TEXT, email TEXT);
+INSERT INTO contact VALUES (1, "Mystical Man", "Alkanuit@gmail.com");
