@@ -6,3 +6,4 @@ INSERT INTO rules VALUES (4, "The difficulty of a two player level will be judge
 INSERT INTO rules VALUES (5, "At the time of their creation, levels must be harder than the hardest legitametly verified rated level, which can be found on Pointercrate");
 INSERT INTO rules VALUES (6, "Levels must be decorated");
 INSERT INTO rules VALUES (7, "Levels must correspond to an update, levels that show the objects available in certain updates are available online on the Geometry Dash servers on special levels containing these objects");
+INSERT INTO rules VALUES (8, "Submissions can use any FPS for impossible levels");
